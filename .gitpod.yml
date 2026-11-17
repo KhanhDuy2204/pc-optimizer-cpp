@@ -1,0 +1,10 @@
+image: gitpod/workspace-full
+
+tasks:
+  - name: Build & Run PC Optimizer (C++17)
+    init: cd cpp && g++ -O2 -std=c++17 pc_main.cpp -o pc_main
+    command: cd cpp && ./pc_main
+
+vscode:
+  extensions:
+    - ms-vscode.cpptools
