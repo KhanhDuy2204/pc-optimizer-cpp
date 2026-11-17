@@ -1,0 +1,11 @@
+group;id;name;price_vnd;power_w;score_raw;ram_type;benchmark;source;date;note
+VGA;V1;PNY GeForce GTX 1650 4GB GDDR6;3790000;75;7862;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V2;GIGABYTE GeForce GTX 1660 Super D6 6G;5090000;125;12654;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V3;ASUS Dual Radeon RX 6600 V3 8GB;5490000;132;15031;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V4;Zotac GeForce RTX 3050 Twin Edge OC 6GB;6390000;70;10738;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V5;ASUS Dual Radeon RX 7600 V2 OC 8GB;7790000;165;16426;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V6;ASUS Dual GeForce RTX 4060 EVO OC 8GB;7990000;115;19477;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V7;Zotac GeForce RTX 5060 Ti 8GB Twin Edge GDDR7;12490000;180;21773;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;TDP 180W khop ca GearVN va PassMark
+VGA;V8;MSI GeForce RTX 5060 Shadow 2X OC 8GB;13990000;170;20578;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V9;GIGABYTE GeForce RTX 4070 SUPER Windforce OC 12G;19490000;220;29939;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark
+VGA;V10;Zotac GeForce RTX 5070 SOLID OC 12GB;29990000;250;28682;;PassMark G3D Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem va TDP theo PassMark

@@ -1,0 +1,11 @@
+group;id;name;price_vnd;power_w;score_raw;ram_type;benchmark;source;date;note
+SSD;S1;Kingston NV3 500GB;3890000;5;5000;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 5000 MB/s / 5W la gia dinh
+SSD;S2;Samsung 990 EVO Plus 1TB;7190000;5;7150;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 7150 MB/s / 5W la gia dinh
+SSD;S3;Samsung 990 PRO 1TB;8990000;5;7450;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 7450 MB/s / 5W la gia dinh
+SSD;S4;Kingston NV3 1TB;4990000;5;6000;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 6000 MB/s / 5W la gia dinh
+SSD;S5;MSI SPATIUM M480 PRO 1TB;4990000;5;7400;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 7400 MB/s / 5W la gia dinh
+SSD;S6;MSI SPATIUM M450 1TB;1990000;5;3600;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 3600 MB/s / 5W la gia dinh
+SSD;S7;Samsung 9100 PRO 1TB Gen5;8690000;5;14700;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 14700 MB/s / 5W la gia dinh
+SSD;S8;Kingston KC3000 2TB;10990000;5;7000;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 7000 MB/s / 5W la gia dinh
+SSD;S9;Samsung 990 PRO 2TB;6490000;5;7450;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 7450 MB/s / 5W la gia dinh
+SSD;S10;WD Black SN8100 2TB Gen5;18990000;5;14900;;Toc do doc tuan tu (MB/s);GearVN;2026-11-17;Doc 14900 MB/s / 5W la gia dinh

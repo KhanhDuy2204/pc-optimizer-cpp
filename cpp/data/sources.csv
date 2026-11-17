@@ -1,0 +1,71 @@
+id;loai;mo_ta;url;ngay_truy_cap;trang_thai;gia_tri;ghi_chu
+C1-gia;gia;GearVN - Intel Core i3-12100F;https://gearvn.com/products/intel-core-i3-12100f;2026-11-17;da_kiem_tra;3290000;Gia ban dang hien thi
+C1-diem;diem;PassMark - Intel Core i3-12100F;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-12100F;2026-11-17;da_kiem_tra;13949;Average CPU Mark
+C2-gia;gia;GearVN - Intel Core i3-13100F;https://gearvn.com/products/intel-core-i3-13100f;2026-11-17;da_kiem_tra;3290000;Gia ban dang hien thi
+C2-diem;diem;PassMark - Intel Core i3-13100F;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i3-13100F;2026-11-17;da_kiem_tra;14651;Average CPU Mark
+C3-gia;gia;GearVN - Intel Core i5-12400F;https://gearvn.com/products/intel-core-i5-12400f;2026-11-17;da_kiem_tra;4390000;Gia ban dang hien thi
+C3-diem;diem;PassMark - Intel Core i5-12400F;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-12400F;2026-11-17;da_kiem_tra;19519;Average CPU Mark
+C4-gia;gia;GearVN - Intel Core i5-13400F;https://gearvn.com/products/intel-core-i5-13400f;2026-11-17;da_kiem_tra;3690000;Gia ban dang hien thi
+C4-diem;diem;PassMark - Intel Core i5-13400F;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-13400F;2026-11-17;da_kiem_tra;24871;Average CPU Mark
+C5-gia;gia;GearVN - Intel Core i5-14400F;https://gearvn.com/products/bo-vi-xu-ly-intel-core-i5-14400f;2026-11-17;da_kiem_tra;4490000;Gia ban dang hien thi
+C5-diem;diem;PassMark - Intel Core i5-14400F;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14400F;2026-11-17;da_kiem_tra;25384;Average CPU Mark
+C6-gia;gia;GearVN - Intel Core i5-12400;https://gearvn.com/products/intel-core-i5-12400;2026-11-17;da_kiem_tra;5690000;Gia ban dang hien thi
+C6-diem;diem;PassMark - Intel Core i5-12400;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-12400;2026-11-17;da_kiem_tra;19519;Average CPU Mark
+C7-gia;gia;GearVN - Intel Core i5-14500;https://gearvn.com/products/bo-vi-xu-ly-intel-core-i5-14500;2026-11-17;da_kiem_tra;6690000;Gia ban dang hien thi
+C7-diem;diem;PassMark - Intel Core i5-14500;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14500;2026-11-17;da_kiem_tra;30440;Average CPU Mark
+C8-gia;gia;GearVN - Intel Core i5-14600KF;https://gearvn.com/products/intel-core-i5-14600kf;2026-11-17;da_kiem_tra;6990000;Gia ban dang hien thi
+C8-diem;diem;PassMark - Intel Core i5-14600KF;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14600KF;2026-11-17;da_kiem_tra;38211;Average CPU Mark
+C9-gia;gia;GearVN - Intel Core i5-14600K;https://gearvn.com/products/intel-core-i5-14600k;2026-11-17;da_kiem_tra;7490000;Gia ban dang hien thi
+C9-diem;diem;PassMark - Intel Core i5-14600K;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-14600K;2026-11-17;da_kiem_tra;38338;Average CPU Mark
+C10-gia;gia;GearVN - Intel Core i7-14700K;https://gearvn.com/products/intel-core-i7-14700k;2026-11-17;da_kiem_tra;12290000;Gia ban dang hien thi
+C10-diem;diem;PassMark - Intel Core i7-14700K;https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-14700K;2026-11-17;da_kiem_tra;51895;Average CPU Mark
+V1-gia;gia;GearVN - PNY GeForce GTX 1650 4GB;https://gearvn.com/products/pny-geforce-gtx-1650-4gb-gddr6-single-fan;2026-11-17;da_kiem_tra;3790000;Gia ban dang hien thi
+V1-diem;diem;PassMark - GeForce GTX 1650;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650&id=4078;2026-11-17;da_kiem_tra;7862;G3D Mark / Max TDP 75W
+V2-gia;gia;GearVN - GIGABYTE GTX 1660 Super 6G;https://gearvn.com/products/gigabyte-geforce-gtx-1660-super-6gb-gddr6;2026-11-17;da_kiem_tra;5090000;Gia ban dang hien thi
+V2-diem;diem;PassMark - GeForce GTX 1660 SUPER;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159;2026-11-17;da_kiem_tra;12654;G3D Mark / Max TDP 125W
+V3-gia;gia;GearVN - ASUS Dual RX 6600 V3 8GB;https://gearvn.com/products/card-man-hinh-asus-dual-radeon-rx-6600-v3-8gb;2026-11-17;da_kiem_tra;5490000;Gia ban dang hien thi
+V3-diem;diem;PassMark - Radeon RX 6600;https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600&id=4465;2026-11-17;da_kiem_tra;15031;G3D Mark / Max TDP 132W
+V4-gia;gia;GearVN - Zotac RTX 3050 6GB;https://gearvn.com/products/card-man-hinh-zotac-geforce-rtx-3050-twin-edge-oc-6gb-gddr6;2026-11-17;da_kiem_tra;6390000;Gia ban dang hien thi
+V4-diem;diem;PassMark - GeForce RTX 3050 6GB;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+6GB&id=5069;2026-11-17;da_kiem_tra;10738;G3D Mark / Max TDP 70W
+V5-gia;gia;GearVN - ASUS Dual RX 7600 V2 OC;https://gearvn.com/products/card-man-hinh-asus-dual-rx7600-v2-oc-8gb;2026-11-17;da_kiem_tra;7790000;Gia ban dang hien thi
+V5-diem;diem;PassMark - Radeon RX 7600;https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600&id=4832;2026-11-17;da_kiem_tra;16426;G3D Mark / Max TDP 165W
+V6-gia;gia;GearVN - ASUS Dual RTX 4060 EVO OC;https://gearvn.com/products/card-man-hinh-asus-dual-geforce-rtx-4060-evo-oc-8gb-gddr6;2026-11-17;da_kiem_tra;7990000;Gia ban dang hien thi
+V6-diem;diem;PassMark - GeForce RTX 4060;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060&id=4850;2026-11-17;da_kiem_tra;19477;G3D Mark / Max TDP 115W
+V7-gia;gia;GearVN - Zotac RTX 5060 Ti 8GB Twin Edge;https://gearvn.com/products/card-man-hinh-zotac-geforce-rtx-5060-ti-8gb-twin-edge-gddr7;2026-11-17;da_kiem_tra;12490000;Gia ban dang hien thi
+V7-diem;diem;PassMark - GeForce RTX 5060 Ti 8GB;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060+Ti+8GB&id=6441;2026-11-17;da_kiem_tra;21773;G3D Mark / Max TDP 180W
+V8-gia;gia;GearVN - MSI RTX 5060 Shadow 2X OC;https://gearvn.com/products/card-man-hinh-msi-geforce-rtx-5060-shadow-2x-oc-8gb;2026-11-17;da_kiem_tra;13990000;Gia ban dang hien thi
+V8-diem;diem;PassMark - GeForce RTX 5060;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5060&id=5602;2026-11-17;da_kiem_tra;20578;G3D Mark / Max TDP 170W
+V9-gia;gia;GearVN - GIGABYTE RTX 4070 SUPER 12G;https://gearvn.com/products/card-man-hinh-gigabyte-geforce-rtx-4070-super-windforce-oc-12g;2026-11-17;da_kiem_tra;19490000;Gia ban dang hien thi
+V9-diem;diem;PassMark - GeForce RTX 4070 SUPER;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070+SUPER&id=4973;2026-11-17;da_kiem_tra;29939;G3D Mark / Max TDP 220W
+V10-gia;gia;GearVN - Zotac RTX 5070 SOLID OC;https://gearvn.com/products/card-man-hinh-zotac-gaming-geforce-rtx-5070-solid-oc-zt-b50700j-10p;2026-11-17;da_kiem_tra;29990000;Gia ban dang hien thi
+V10-diem;diem;PassMark - GeForce RTX 5070;https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070&id=5940;2026-11-17;da_kiem_tra;28682;G3D Mark / Max TDP 250W
+R1-gia;gia;GearVN - Corsair Vengeance LPX 16GB DDR4-3200;https://gearvn.com/products/ram-corsair-vengeance-lpx-16gb-3200mhz-ddr4-cmk16gx4m1e3200c16;2026-11-17;da_kiem_tra;3690000;Bus 3200 va so thanh lay tren cung trang
+R2-gia;gia;GearVN - Corsair Vengeance RGB 32GB DDR5-6000;https://gearvn.com/products/ram-corsair-vengeance-rgb-32gb-2x16gb-6000-ddr5-cmh32gx5m2e6000c36;2026-11-17;da_kiem_tra;13990000;Bus 6000 / 2 thanh
+R3-gia;gia;GearVN - Kingston Fury Beast 16GB DDR5-6000;https://gearvn.com/products/ram-kingston-fury-beast-16gb-1x16gb-buss-6000-ddr5-kf560c36bbe2-16wp;2026-11-17;da_kiem_tra;5990000;Bus 6000 / 1 thanh
+R4-gia;gia;GearVN - TeamGroup VULCAN 16GB DDR5-6000;https://gearvn.com/products/ram-teamgroup-vulcan-black-16gb-1x16gb-ddr5-6000mhz;2026-11-17;da_kiem_tra;1990000;Bus 6000 / 1 thanh
+R5-gia;gia;GearVN - SSTC 16GB DDR4-3200;https://gearvn.com/products/ram-sstc-16gb-ddr4-3200mhz-u3200a-c22-16gb;2026-11-17;da_kiem_tra;2990000;Bus 3200 / 1 thanh
+R6-gia;gia;GearVN - Kingmax 16GB DDR4-3200;https://gearvn.com/products/ram-kingmax-16gb-ddr4-3200-km-ld4-3200-16gs;2026-11-17;da_kiem_tra;1290000;Bus 3200 / 1 thanh
+R7-gia;gia;GearVN - G.Skill Ripjaws S5 16GB DDR5-5600;https://gearvn.com/products/ram-g-skill-ripjaws-s5-16gb-1x16gb-5600-ddr5-white-f5-5600u3636c16gx2-rs5w;2026-11-17;da_kiem_tra;5245000;Bus 5600 / 1 thanh
+R8-gia;gia;GearVN - T-Force Delta 16GB DDR4-3600;https://gearvn.com/products/ram-t-group-t-force-delta-1x16gb-3600-rgb-black;2026-11-17;da_kiem_tra;3490000;Bus 3600 / 1 thanh
+R9-gia;gia;GearVN - Corsair Dominator Titanium 32GB DDR5-6000;https://gearvn.com/products/ram-corsair-dominator-titanium-black-32gb-2x16gb-rgb-60000-ddr5-cmp32gx5m2b6000c30;2026-11-17;da_kiem_tra;14990000;Bus 6000 / 2 thanh
+R10-gia;gia;GearVN - Corsair Vengeance RGB 32GB CL38 DDR5-6000;https://gearvn.com/products/ram-corsair-vengeance-rgb-32gb-2x16gb-cl38-6000mhz-grey-ddr5-cmh32gx5m2b6000z38;2026-11-17;da_kiem_tra;15790000;Bus 6000 / 2 thanh
+M1-gia;gia;GearVN - ASUS TUF B660M-PLUS WIFI DDR4;https://gearvn.com/products/asus-tuf-gaming-b660m-plus-wifi-ddr4;2026-11-17;da_kiem_tra;3790000;DDR4 / LGA1700 / trong so 0
+M2-gia;gia;GearVN - MSI PRO B760M-A WIFI DDR4;https://gearvn.com/products/bo-mach-chu-msi-pro-b760m-a-wifi-ddr4;2026-11-17;da_kiem_tra;3490000;DDR4 / LGA1700 / trong so 0
+M3-gia;gia;GearVN - ASUS PRIME B760M-K DDR5;https://gearvn.com/products/bo-mach-chu-asus-prime-b760m-k-ddr5;2026-11-17;da_kiem_tra;2490000;DDR5 / LGA1700 / trong so 0
+M4-gia;gia;GearVN - GIGABYTE B760M AORUS ELITE DDR4;https://gearvn.com/products/gigabyte-b760m-aorus-elite-ddr4;2026-11-17;da_kiem_tra;3990000;DDR4 / LGA1700 / trong so 0
+M5-gia;gia;GearVN - GIGABYTE B760M GAMING PLUS WIFI DDR4;https://gearvn.com/products/bo-mach-chu-gigabyte-b760m-gaming-plus-wifi-ddr4;2026-11-17;da_kiem_tra;3290000;DDR4 / LGA1700 / trong so 0
+M6-gia;gia;GearVN - GIGABYTE B760M D DDR4;https://gearvn.com/products/bo-mach-chu-gigabyte-b760m-d-ddr4;2026-11-17;da_kiem_tra;2490000;DDR4 / LGA1700 / trong so 0
+M7-gia;gia;GearVN - MSI PRO B760M-E DDR4;https://gearvn.com/products/bo-mach-chu-msi-pro-b760m-e-ddr4;2026-11-17;da_kiem_tra;2390000;DDR4 / LGA1700 / trong so 0
+M8-gia;gia;GearVN - MSI MAG B760M MORTAR II WIFI DDR5;https://gearvn.com/products/bo-mach-chu-msi-mag-b760m-mortar-ii-wifi-ddr5;2026-11-17;da_kiem_tra;4490000;DDR5 / LGA1700 / trong so 0
+M9-gia;gia;GearVN - ASUS TUF B760M-PLUS WIFI II DDR5;https://gearvn.com/products/bo-mach-chu-asus-tuf-gaming-b760m-plus-wifi-ii-ddr5;2026-11-17;da_kiem_tra;4290000;DDR5 / LGA1700 / trong so 0
+M10-gia;gia;GearVN - GIGABYTE B760M GAMING WIFI PLUS DDR5;https://gearvn.com/products/bo-mach-chu-gigabyte-b760m-gaming-wifi-plus-ddr5;2026-11-17;da_kiem_tra;3690000;DDR5 / LGA1700 / trong so 0
+S1-gia;gia;GearVN - Kingston NV3 500GB;https://gearvn.com/products/o-cung-ssd-kingston-nv3-500gb-m-2-pcie-nvme-gen4;2026-11-17;da_kiem_tra;3890000;Doc tuan tu 5000 MB/s tren cung trang
+S2-gia;gia;GearVN - Samsung 990 EVO Plus 1TB;https://gearvn.com/products/o-cung-ssd-samsung-990-evo-plus-mz-v9s1t0bw;2026-11-17;da_kiem_tra;7190000;Doc tuan tu 7150 MB/s tren cung trang
+S3-gia;gia;GearVN - Samsung 990 PRO 1TB;https://gearvn.com/products/o-cung-ssd-samsung-990-pro-1tb-pcie-gen4-nvme-mz-v9p1t0bw;2026-11-17;da_kiem_tra;8990000;Doc tuan tu 7450 MB/s tren cung trang
+S4-gia;gia;GearVN - Kingston NV3 1TB;https://gearvn.com/products/o-cung-ssd-kingston-nv3-1tb-m-2-pcie-nvme-gen4;2026-11-17;da_kiem_tra;4990000;Doc tuan tu 6000 MB/s tren cung trang
+S5-gia;gia;GearVN - MSI SPATIUM M480 PRO 1TB;https://gearvn.com/products/o-cung-ssd-msi-spatium-m480-pro-pcie-4-0-nvme-m-2-1tb;2026-11-17;da_kiem_tra;4990000;Doc tuan tu 7400 MB/s tren cung trang
+S6-gia;gia;GearVN - MSI SPATIUM M450 1TB;https://gearvn.com/products/o-cung-ssd-msi-spatium-m450-1tb-m-2-pcie-nvme-gen-4-0;2026-11-17;da_kiem_tra;1990000;Doc tuan tu 3600 MB/s tren cung trang
+S7-gia;gia;GearVN - Samsung 9100 PRO 1TB Gen5;https://gearvn.com/products/o-cung-ssd-samsung-9100-pro-nvme-m-2-1tb-gen5;2026-11-17;da_kiem_tra;8690000;Doc tuan tu 14700 MB/s tren cung trang
+S8-gia;gia;GearVN - Kingston KC3000 2TB;https://gearvn.com/products/ssd-kingston-kc3000-2tb-m-2-pcie-gen-4-nvme;2026-11-17;da_kiem_tra;10990000;Doc tuan tu 7000 MB/s tren cung trang
+S9-gia;gia;GearVN - Samsung 990 PRO 2TB;https://gearvn.com/products/ssd-samsung-990-pro-2tb-m-2-pcie-gen-4-nvme-mz-v9p2t0bw;2026-11-17;da_kiem_tra;6490000;Doc tuan tu 7450 MB/s tren cung trang
+S10-gia;gia;GearVN - WD Black SN8100 2TB Gen5;https://gearvn.com/products/o-cung-ssd-wd-black-sn8100-pcie-2tb-m2-gen5;2026-11-17;da_kiem_tra;18990000;Doc tuan tu 14900 MB/s tren cung trang

@@ -1,0 +1,11 @@
+group;id;name;price_vnd;power_w;score_raw;ram_type;benchmark;source;date;note
+RAM;R1;Corsair Vengeance LPX 16GB (1x16GB) DDR4-3200;3690000;5;25600;DDR4;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;1 thanh / 3200 x 8 x 1 = 25600 MB/s / 5W la gia dinh
+RAM;R2;Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000;13990000;10;96000;DDR5;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;2 thanh / 6000 x 8 x 2 = 96000 MB/s / 10W la gia dinh
+RAM;R3;Kingston Fury Beast 16GB (1x16GB) DDR5-6000;5990000;5;48000;DDR5;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;1 thanh / 6000 x 8 x 1 = 48000 MB/s / 5W la gia dinh
+RAM;R4;TeamGroup VULCAN 16GB (1x16GB) DDR5-6000;1990000;5;48000;DDR5;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;1 thanh / 6000 x 8 x 1 = 48000 MB/s / 5W la gia dinh
+RAM;R5;SSTC 16GB DDR4-3200 (U3200A-C22-16GB);2990000;5;25600;DDR4;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;1 thanh / 3200 x 8 x 1 = 25600 MB/s / 5W la gia dinh
+RAM;R6;Kingmax 16GB DDR4-3200 (KM-LD4-3200-16GS);1290000;5;25600;DDR4;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;1 thanh / 3200 x 8 x 1 = 25600 MB/s / 5W la gia dinh
+RAM;R7;G.Skill Ripjaws S5 16GB (1x16GB) DDR5-5600;5245000;5;44800;DDR5;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;1 thanh / 5600 x 8 x 1 = 44800 MB/s / 5W la gia dinh
+RAM;R8;T-Force Delta 16GB (1x16GB) DDR4-3600 RGB;3490000;5;28800;DDR4;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;1 thanh / 3600 x 8 x 1 = 28800 MB/s / 5W la gia dinh
+RAM;R9;Corsair Dominator Titanium 32GB (2x16GB) DDR5-6000;14990000;10;96000;DDR5;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;2 thanh / 6000 x 8 x 2 = 96000 MB/s / 10W la gia dinh
+RAM;R10;Corsair Vengeance RGB 32GB (2x16GB) CL38 DDR5-6000;15790000;10;96000;DDR5;Bandwidth ly thuyet (MT/s x 8 x kenh);GearVN;2026-11-17;2 thanh / 6000 x 8 x 2 = 96000 MB/s / 10W la gia dinh

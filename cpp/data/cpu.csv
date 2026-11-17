@@ -1,0 +1,11 @@
+group;id;name;price_vnd;power_w;score_raw;ram_type;benchmark;source;date;note
+CPU;C1;Intel Core i3-12100F;3290000;58;13949;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C2;Intel Core i3-13100F;3290000;58;14651;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C3;Intel Core i5-12400F;4390000;65;19519;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C4;Intel Core i5-13400F;3690000;65;24871;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C5;Intel Core i5-14400F;4490000;65;25384;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C6;Intel Core i5-12400;5690000;65;19519;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C7;Intel Core i5-14500;6690000;65;30440;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C8;Intel Core i5-14600KF;6990000;125;38211;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C9;Intel Core i5-14600K;7490000;125;38338;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
+CPU;C10;Intel Core i7-14700K;12290000;125;51895;;PassMark CPU Mark;GearVN + PassMark;2026-11-17;Gia GearVN / diem PassMark / TDP theo GearVN
